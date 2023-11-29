@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, mundo!",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "id": 2,
+      "title": "Requisições POST com Javascript",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "title": "hoje é sexta",
+      "author": "Joao",
+      "content": "VOU CORINGAR",
+      "id": 3
+    },
+    {
+      "title": "hoje é sabado",
+      "author": "JOAO",
+      "content": "nao tou coringanod",
+      "id": 4
+    },
+    {
+      "title": "hoje é domingo",
+      "author": "JOAo",
+      "content": "miau",
+      "id": 5
+    },
+    {
+      "title": "hoje eh segunda",
+      "author": "joa",
+      "content": "oii",
+      "id": 6
+    },
+    {
+      "title": "gdg",
+      "author": "gfgdg",
+      "content": "etste",
+      "id": 7
+    }
+  ]
+}
